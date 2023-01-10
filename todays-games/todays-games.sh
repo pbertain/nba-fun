@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NBA_PATH="/Users/paulb/Dropbox/home/tech/nba/nba-"
+NBA_PATH="/Users/paulb/Dropbox/home/tech/nba/nba-fun/todays-games"
 NBA_DATE=`date '+%a %b %d'`
 NBA_TIME=`date '+%l:%M%p'`
 NBA_PYTHON="/usr/bin/python3"
